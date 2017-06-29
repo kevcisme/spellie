@@ -5,7 +5,7 @@ Based on Tall Weiss's DeepSpell code https://github.com/MajorTal/DeepSpell.
 ## Quick Start
 Clone DeepSpell Git repository:
 
-```git clone https://git.generalassemb.ly/kevincoyle/deepspellie.git```
+```git clone https://github.com/kevcisme/spellie.git```
 
 ### CPU
 * Install [Docker](https://www.docker.com/)
